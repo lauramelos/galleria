@@ -4,3 +4,6 @@ _build
 *.swp
 *.swo
 docs/jsdoc/html
+components
+build
+node_modules
