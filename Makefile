@@ -1,4 +1,4 @@
-build: components galleria.js galleria.css
+build: components src/galleria.js 
 	@component build --dev
 
 components: component.json

@@ -1,16 +1,15 @@
 {
-  "name": "galleria"
+  "name": "galleria",
   "repo": "lauramelos/galleria",
-  "description": "Responsive JavaScript Image Gallery"
+  "description": "Responsive JavaScript Image Gallery",
   "version": "1.3",
-  "keywords": ['gallery'],
-  "dependencies": {},
+  "keywords": [],
+  "dependencies": {
+    "component/jquery": "*"
+  },
   "development": {},
   "license": "MIT",
   "scripts": [
-    "galleria.js"
-  ],
-  "styles": [
-    "galleria.css"
+    "src/galleria.js"
   ]
 }
