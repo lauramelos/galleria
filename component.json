@@ -11,5 +11,6 @@
   "license": "MIT",
   "scripts": [
     "src/galleria.js"
-  ]
+  ],
+  "main": "src/galleria.js"
 }
